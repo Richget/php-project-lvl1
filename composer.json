@@ -1,0 +1,11 @@
+{
+    "name": "hexlet/code",
+    "description": "first hexlet project",
+    "authors": [
+        {
+            "name": "Sergey Malakhov",
+            "email": "richget23@gmail.com"
+        }
+    ],
+    "require": {}
+}
