@@ -1,5 +1,6 @@
 {
-    "name": "hexlet/code",
+    "name": "richget/brain-games",
+    "bin": ["bin/brain-games"],
     "description": "first hexlet project",
     "authors": [
         {
@@ -7,5 +8,8 @@
             "email": "richget23@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+    },
+    "require-dev": {
+    }
 }

@@ -1,8 +1,9 @@
+#!/usr/bin/php
 <?php
 
 function greeting()
 {
-    $text = 'Welcome to the Brain Games!';
+    $text = "Welcome to the Brain Games!\n";
     print_r($text);
 }
 greeting();
