@@ -1,5 +1,5 @@
 {
-    "name": "richget/php-project-lvl1",
+    "name": "hexlet/code",
     "bin": ["bin/brain-games"],
     "description": "first hexlet project",
     "authors": [
