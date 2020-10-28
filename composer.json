@@ -9,10 +9,9 @@
         }
     ],
     "autoload": {
-        "files": 
-        [
-            "src/Cli.php"
-        ]
+        "psr-4": {
+            "Php\\Project\\Lvl1\\": "src"
+        }
     },
     "require": {
         "wp-cli/php-cli-tools": "^0.11.11"
@@ -20,3 +19,5 @@
     "require-dev": {
     }
 }
+
+
