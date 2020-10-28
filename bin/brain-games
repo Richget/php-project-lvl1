@@ -1,9 +1,7 @@
 #!/usr/bin/php
 <?php
+namespace Brain\Games\Cli;
 
-function greeting()
-{
-    $text = "Welcome to the Brain Games!\n";
-    print_r($text);
-}
+require_once __DIR__ . '/../vendor/autoload.php';
+
 greeting();
